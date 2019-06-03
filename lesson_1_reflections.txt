@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help see the bug that was introduced? 
+	-It helped see what was changed when compared to the original file, which in turn helped
+	point to where the bug was.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in 
+the long term?
+	-Having easy access to a files history will make me a more efficient programmer by having some 
+	form of comparison to changes made to said file. So if a mistake is made that causes the file
+	or program to stop working, a previous working file/program can be reinstated and from there 
+	the problem with the change can possibly be fixed.
+
+What do you think are the pros and cons of manually choosing when to commit, like you do in GIT, vs having 
+versions automatically saved, like Google Docs does?
+	-The pros are that commits can then be done when a logical change has occurred, which can be more
+	desirable for a programmer. The cons would be that accidents can happen, say the computer turns
+	off due to some issue happening, which could potentially erase hours of progress that hasn't been
+	saved, which an auto save could possibly prevent. 
+
+Why do you think some version control systems, like GIT, allow saving multiple files in one commit, while
+others, like Google Docs, treat each file separately?
+	-Some version control systems were made for with different purposes in mind. For GIT, programming
+	was mainly considered with its creation. For Google Docs, various document editing was considered
+	with its creation.
+
+How can you use the commands git log and git diff to view the history of files?
+	-By using git log, commits to the repository can be found, while git diff shows the changes done to
+	two selected files. 
+
+How might using version control make you more confident to make changed that could break something?
+	-Using version control creates a way to backtrack from changes, along with a history of what 
+	has been changed. This can then give confidence to make risky changes since they can be fixed
+	if they go to far. "Idea of exploration". 
+
+What do you want to try to use GIT for?
+	-I want to use GIT for programming and general version control of what I create.
