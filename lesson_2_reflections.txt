@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need it?
+	-When a repository is initialized, git metadata is created
+	that keeps track of changes done to a repository. This is
+	needed so that the changes can be kept track of.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+	-The staging area is different in that individual files are
+	added so that they are the ones to be committed to the
+	repository. The value that it offers is that specific files
+	can be chosen to committed. 
