@@ -19,4 +19,25 @@ your history organized? How would branches help?
 	-Say if there are multiple bugs to fix, or different changes
 	that would need to be made at specific times, then branching
 	would be helpful. Branches would help by being able to focus
-	on particular parts of code or files. 
+	on particular parts of code or files.
+
+How do the diagrams help you visualize the branch structure?
+	-They help visualize the structure by showing which branch
+	was created where and when, also which branch is the 
+	'master' branch that should work.
+
+What is the result of merging two branches together? Why do we
+represent in the diagram in the way we do?
+	-The result of merging the two branches was a combination of
+	changed code of the two chosen branches. The reason why 
+	the branches are represented in the diagram this way is
+	because it gives a good idea of how the commits are 
+	'branched'. 
+
+What are the pros and cons of Git's automatic merging vs. always
+doing merges automatically?
+	-The pros would be that it requires less work with some level
+	of tracking. The cons would be that there is a smaller level
+	of control with the automatic process.
+
+
