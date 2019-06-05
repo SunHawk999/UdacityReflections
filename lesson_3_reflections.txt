@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all work local?
+  -When backups need to be created, or when multiple people want to work on something.
+  
